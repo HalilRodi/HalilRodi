@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Unity Game Development**
 
-- 📫 How to reach me **daghalilrodi1@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/halil rodi dağ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="halil rodi dağ" height="30" width="40" /></a>
