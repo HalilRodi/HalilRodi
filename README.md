@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hallrod&label=Profile%20views&color=0e75b6&style=flat" alt="hallrod" /> </p>
 
-- 🔭 I’m currently working on **ksuWebsite**
+- 🔭 I’m currently working on **Hastane_Otomasyonu**
 
 - 🌱 I’m currently learning **Unity Game Development**
 
